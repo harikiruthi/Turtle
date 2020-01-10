@@ -7,3 +7,4 @@ for x in range(180):
     t.width(x/100 + 1)
     t.forward(x)
     t.left(59)
+    
